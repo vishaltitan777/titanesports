@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "72179439708",
+    "project_id": "project-titan-1777a",
+    "storage_bucket": "project-titan-1777a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72179439708:android:2f1f5197b0e59bf40c2e99",
+        "android_client_info": {
+          "package_name": "com.example.project_titan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDACivOfib9Bzffu16vpqJfzU_pu5hSbdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
